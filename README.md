@@ -1,6 +1,6 @@
 # DocsBuilder (Draft - Active Development)
 
-Try de draft version:
+<a href="docsbuilder.aqibteam.com/">Try</a> de draft version:
 Email: test@aqibteam.com
 Pass: password
 
